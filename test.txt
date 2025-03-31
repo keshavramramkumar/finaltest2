@@ -1,0 +1,9 @@
+AI agents are intelligent systems designed to perform tasks that typically require human intelligence. These agents can analyze data, learn from experience, and make decisions based on information they process. They can be classified into different types, including:
+
+1. **Researcher Agents**: These agents identify and gather relevant information, helping to find potential candidates or solutions by exploring various resources.
+
+2. **Matcher Agents**: They match candidates or data to the best opportunities using algorithms and scoring techniques, prioritizing the most suitable options.
+
+3. **Communicator Agents**: These agents develop outreach strategies, creating effective communication methods to engage users or candidates and ensure high response rates.
+
+4. **Reporter Agents**: They compile and present detailed reports based on data analysis, offering insights that assist in decision-making processes.
