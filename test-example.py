@@ -1,3 +1,4 @@
+# Owned by OSpectra AI
 from arize.otel import register
 
 tracer_provider = register(
