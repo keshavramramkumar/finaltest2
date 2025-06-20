@@ -1,3 +1,4 @@
+# Copyright (c) OSpectra AI Inc. All rights reserved.
 # Owned by OSpectra AI
 # Example: Uses OpenAI and Arize to generate a movie quote with tracing instrumentation
 from arize.otel import register
@@ -27,5 +28,4 @@ chat_completion = client.chat.completions.create(
     ],
     model="gpt-4o-mini",
 )
-
 # Owned by OSpectra AI
