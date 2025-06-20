@@ -9,3 +9,5 @@ AI agents are intelligent systems designed to perform tasks that typically requi
 3. **Communicator Agents**: These agents develop outreach strategies, creating effective communication methods to engage users or candidates and ensure high response rates.
 
 4. **Reporter Agents**: They compile and present detailed reports based on data analysis, offering insights that assist in decision-making processes.
+
+# Owned by OSpectra AI
