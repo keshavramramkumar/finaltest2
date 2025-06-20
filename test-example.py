@@ -1,4 +1,5 @@
 # Owned by OSpectra AI
+# Example: Uses OpenAI and Arize to generate a movie quote with tracing instrumentation
 from arize.otel import register
 
 tracer_provider = register(
